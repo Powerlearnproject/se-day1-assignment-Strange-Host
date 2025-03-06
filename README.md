@@ -4,24 +4,24 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+1.Explain what software engineering is and discuss its importance in the technology industry.
     Software engineering is an engineering discipline concerned with the development of high quality software
     systems with a given budget, before a given deadline while changes occur.
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+2.Identify and describe at least three key milestones in the evolution of software engineering.
     Introduction of structured programming between 1960 and 1970 which promoted development of software with
     regard to modularity and readality.
-    Use of Object Oriented programming which shifted software development towards real world models in the 1980's. The use of objects(atrriutes & functions) led to the creation of reusable code hence improving modularity and reducing time required to fully develop software. 
+    Use of Object Oriented programming which shifted software development towards real world models in the 1980's. The use of objects(atrriutes & functions) led to the creation       of reusable code hence improving modularity and reducing time required to fully develop software. 
     Introduction of Agile process model which prioritises customer collaboration during software development which ensures that user requirements are met.
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+3.List and briefly explain the phases of the Software Development Life Cycle.
     Requirements specification
-        Functional and Non-Functional Requirements are mapped out and at this stage it is determinegd whether the requirements can be met by improving an already existing system or developing a new one.
+        Functional and Non-Functional Requirements are mapped out and at this stage it is determinegd whether the requirements can be met by improving an already existing system          or developing a new one.
     Design
         System specifications are translated into plans for the technical implementation of the software.
-    Devekopment
+        Devekopment
         Code is writtten to translate the plans developed during the design phase are translated into an actual
         working system. 
     Evolution & Maintenance
@@ -30,12 +30,12 @@ List and briefly explain the phases of the Software Development Life Cycle.
         has been deployed.
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
     Waterfall method refers to a sequential, linear approach where each phase must be completed before the next
     phase begins while agile method refers to a software process model where customer involvement is prioritised. 
     The development processs in agile method main;y focusses on user requirements.
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
     A software developer's roles include actively developing the software through writing code and testing whether
     the modules developed actually function to satisfy the user requirements.
     A quality assuarance engineer checks whether the software developed meets both user requirements and industry
@@ -44,13 +44,13 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
     people invloved in the life cycle work to develop a software system that meets industry standards and user
     requirements. 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
     Integrated development environments are used by software developers to write and test the code that will 
     be used as a basis for the software system. Version control systems are used to keep track of all updates
     made to the software system. This allows access to earlier versions of the software in case latest updates 
     end up having many bugs.
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
     Software development is usuallyu accompanied by a tight deadline that might not be enough to fully cover 
     all bases during the software development life cycle which may result in bugs in the final product. This can
     problem can be minimised by proper planning  and ensuring the developers follow the timeline.
@@ -59,7 +59,7 @@ What are some common challenges faced by software engineers? Provide strategies 
     requirements.
     Conflicting user requirements. This may occur when different shareholders give out requirements that conflict with each other.
     This may be minimised by prioritising the requirements.
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
     Unit testing refers to testing the different modules developed separately.  
     Integration testing refers to testing how the different modules interact with each other to perform the overall function
     of the sofware system.
@@ -69,10 +69,10 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+9.Define prompt engineering and discuss its importance in interacting with AI models.
     The process of designing and refining queris that are used to interact with AI models.
     Prompt engineering ensures that AI gives out high-quality output especially when used to give out information
     on speciaised subjects.
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+10.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
     Vague prompt: Tell me more about Agile.
     Refined prompt: Information on Agile Methodology in regards to Software Process models in Software Engineering.
